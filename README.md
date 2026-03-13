@@ -18,4 +18,3 @@ Detect cyber attacks using hybrid deep learning models (CNN-LSTM)
 
 Mitigate poisoning and Byzantine attacks using robust aggregation
 
-Evaluate performance under non-IID data distributions
